@@ -32,6 +32,7 @@ public class Engineer extends Employee {
 		
 		Engineer obj = new Engineer();
 		obj.label(400000,"A");
+		obj.label(50000, "A+");;
 		
 	}
 
